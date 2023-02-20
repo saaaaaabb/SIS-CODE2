@@ -1,1 +1,24 @@
-{}
+{
+    "1": {
+        "First Name": "beatrix",
+        "Last Name": "santos",
+        "Course": "ewan",
+        "Address": "binan",
+        "Physics": "97",
+        "Chemistry": "96",
+        "Math": "95",
+        "English": "99",
+        "Computer Science": "88"
+    },
+    "2": {
+        "First Name": "adsa",
+        "Last Name": "dsad",
+        "Course": "sdasd",
+        "Address": "fdsf",
+        "Physics": "99",
+        "Chemistry": "99",
+        "Math": "97",
+        "English": "96",
+        "Computer Science": "99"
+    }
+}
